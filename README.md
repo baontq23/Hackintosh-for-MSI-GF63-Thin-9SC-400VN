@@ -35,4 +35,9 @@ This is a OpenCore 0.6.4 install for MacOS BigSur 11.1
 - [ ] nVidia GTX 1650 doesn't work, and I've disabled it in my build
 - [ ] SD card reader
 
-![1](https://github.com/baooshacker/Hackintosh-for-MSI-GF63-Thin-9SC-400VN/blob/master/1.jpg)
+![1](https://github.com/baooshacker/Hackintosh-for-MSI-GF63-Thin-9SC-400VN/blob/master/Screen%20Shot/LWScreenShot%202020-12-23%20at%201.08.24%20PM.png)
+![1](https://github.com/baooshacker/Hackintosh-for-MSI-GF63-Thin-9SC-400VN/blob/master/Screen%20Shot/Screen%20Shot%202020-12-23%20at%2023.49.39.png)
+![1](https://github.com/baooshacker/Hackintosh-for-MSI-GF63-Thin-9SC-400VN/blob/master/Screen%20Shot/Screen%20Shot%202020-12-23%20at%2023.17.30.png)
+![1](https://github.com/baooshacker/Hackintosh-for-MSI-GF63-Thin-9SC-400VN/blob/master/Screen%20Shot/Screen%20Shot%202020-12-23%20at%2023.21.00.png)
+![1](https://github.com/baooshacker/Hackintosh-for-MSI-GF63-Thin-9SC-400VN/blob/master/Screen%20Shot/Screen%20Shot%202020-12-23%20at%2023.22.49.png)
+![1](https://github.com/baooshacker/Hackintosh-for-MSI-GF63-Thin-9SC-400VN/blob/master/Screen%20Shot/Screen%20Shot%202020-12-23%20at%2023.46.37.png)
